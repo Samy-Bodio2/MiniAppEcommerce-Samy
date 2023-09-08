@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mcommandes" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="clientUI" target="17" />
-      <module name="mcommandes" target="1.8" />
       <module name="mpaiement" target="1.8" />
       <module name="mproduits" target="1.8" />
     </bytecodeTargetLevel>
