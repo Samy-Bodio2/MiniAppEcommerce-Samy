@@ -12,3 +12,13 @@ spring.jpa.show-sql=true
 
 #Nos configurations
 mes-configs.limitDeProduits= 4
+
+
+
+
+
+
+
+
+
+https://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@github.com/Samy-Bodio2/mcommerce-config-repo.git
